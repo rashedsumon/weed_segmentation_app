@@ -1,0 +1,5 @@
+streamlit
+kagglehub
+pillow
+numpy
+opencv-python
